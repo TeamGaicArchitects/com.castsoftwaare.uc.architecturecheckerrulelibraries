@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.architecturecheckerrulelibraries</id>
+    <title>Architecture Checker Rule Libraries</title>
+    <version>0.1.0</version>
+	<authors>User Community</authors>
+    <owners>CAST</owners>
+     <projectUrl>https://github.com/TeamGaicArchitects/com.castsoftware.uc.architecturecheckerrulelibraries/wiki</projectUrl>
+	 <iconUrl>>https://raw.githubusercontent.com/TeamGaicArchitects/com.castsoftware.uc.architecturecheckerrulelibraries/master/architecturecheckerrulelibraries.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provide default set of architecture rules for Architecture Checker </description>
+    <releaseNotes>Creation
+</releaseNotes>
+ <tags>CAIP8.2.x CAIP8.1.x CAIP8.0.x ArchitectureChecker Rule</tags>
+    <dependencies>
+      <dependency id="CAIP" version="8.2" />
+    </dependencies>
+	<licenseUrl>https://help.castsoftware.com/hc/en-us/articles/212612648-Application-Intelligence-Platform-Extension-License</licenseUrl>
+  </metadata>
+</package>
