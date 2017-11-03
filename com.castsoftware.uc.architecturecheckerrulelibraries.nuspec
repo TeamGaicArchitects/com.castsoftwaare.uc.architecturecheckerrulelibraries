@@ -7,7 +7,7 @@
 	<authors>User Community</authors>
     <owners>CAST</owners>
      <projectUrl>https://github.com/TeamGaicArchitects/com.castsoftware.uc.architecturecheckerrulelibraries/wiki</projectUrl>
-	 <iconUrl>>https://raw.githubusercontent.com/TeamGaicArchitects/com.castsoftware.uc.architecturecheckerrulelibraries/master/architecturecheckerrulelibraries.png</iconUrl>
+	 <iconUrl>https://raw.githubusercontent.com/TeamGaicArchitects/com.castsoftware.uc.architecturecheckerrulelibraries/master/architecturecheckerrulelibraries.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Provide default set of architecture rules for Architecture Checker </description>
     <releaseNotes>Creation
