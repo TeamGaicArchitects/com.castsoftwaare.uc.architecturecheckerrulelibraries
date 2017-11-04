@@ -1,2 +1,2 @@
-# com.castsoftwaare.uc.architecturecheckerrulelibraries
+# com.castsoftware.uc.architecturecheckerrulelibraries
 Architects Extension - ArchitectureChecker
